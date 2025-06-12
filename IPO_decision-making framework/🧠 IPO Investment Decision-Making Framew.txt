@@ -1,0 +1,89 @@
+🧠 IPO Investment Decision-Making Framework for Hedge Fund Managers 
+ 
+ ✅ Step 1: Deal Sourcing & Pre-Analysis 
+ প্রশ্নকরণীয় 
+ কে IPO লঞ্চ করছে? 
+ কোম্পানির নাম, সেক্টর, মুনাফা, আয়, ব্যালান্স শীট দেখো 
+ কে underwriter? 
+ Goldman Sachs, Morgan Stanley, JPMorgan হলে credibility বেশি 
+ প্রি-IPO investor কারা? 
+ যদি Berkshire Hathaway, Sequoia Capital, বা অন্য বড় হাউজ থাকে, সেটা বড় পজিটিভ 
+ কোম্পানির moat বা competitive edge আছে? 
+ Unique প্রযুক্তি, brand power, regulatory advantage? 
+ 
+ 📊 Step 2: Valuation Analysis 
+ বিষয়করণীয় 
+ IPO price কে benchmark করো 
+ P/E, P/S ratio দেখি peer কোম্পানির তুলনায় 
+ কি range এ pricing? 
+ Undervalued, fairly valued না overvalued? 
+ EV/EBITDA, GM, Revenue Growth 
+ যদি SaaS হয়, তাহলে Rule of 40 দেখো: Revenue Growth + EBITDA Margin ≥ 40%? 
+ Pre-IPO valuation vs IPO price 
+ যদি pre-IPO থেকে অনেক বেশি হয়, তাহলে risk বাড়ে 
+ 
+ 👥 Step 3: Institutional Demand Assessment 
+ প্রশ্নকরণীয় 
+ Oversubscription ratio কত? 
+ যদি 10x+ হয়, তাহলে demand বেশি 
+ কে কে anchor investor? 
+ Fidelity, T. Rowe Price, BlackRock থাকলে নিশ্চিন্ত হওয়া যায় 
+ Book-building process কেমন? 
+ ইচ্ছাকৃত underpricing কি হচ্ছে? তাহলে short-term gain হতে পারে 
+ 
+ 🔥 Step 4: First Day Game Plan 
+ | যদি Allocation পাও | তাহলে: IPO প্রাইসে শেয়ার ধরো, First Day 50–100% gain এ exit চিন্তা করো | 
+ | যদি Allocation না পাও | তাহলে: Market open price থেকে +15% এর বেশি হলে এন্ট্রি না নিতে পার | 
+ | Price action কেমন? | যদি প্রথম ঘণ্টায় স্টেবল থাকে, তাহলে partial entry নেওয়া যায় | 
+ 
+ 🧩 Step 5: Risk Management Strategy 
+ ঝুঁকিকৌশল 
+ Overvaluation risk 
+ IPO-এর পর যদি 50%+ গ্যাপ হয়, partial profit booking করো 
+ Lock-in expiration date 
+ Pre-IPO investors কবে sell করতে পারবে সেটা track করো 
+ High Volatility 
+ IPO stock-এর stop-loss, trailing stop loss ব্যবহার করো (যেমন: 10–15%) 
+ 
+ 🧠 Step 6: Post-IPO Performance Monitoring 
+ বিষয়করণীয় 
+ Earnings report outcome 
+ প্রথম ১–২ কোয়ার্টার ভালো হলে লং-টার্ম ধরে রাখা যায় 
+ Insider selling / dilution 
+ হঠাৎ যদি insider sell করে, সেটা negative signal 
+ Analyst coverage শুরু হলে 
+ Buy rating এলে আরও institutional entry হতে পারে 
+ 
+ 🔑 Summary Table: Quick Decision Tree 
+ প্রশ্নহ্যাঁ হলেনা হলে 
+ কোম্পানি লাভজনক? 
+ Proceed to valuation 
+ রিস্ক বেশি 
+ Underwriter strong? 
+ High trust 
+ Research বাড়াও 
+ Oversubscription 5x+? 
+ হাইপ আছে, লাভ সম্ভাবনা 
+ সাবধান 
+ IPO pricing undervalued? 
+ Long/Short term gain সম্ভব 
+ Avoid বা অপেক্ষা করো 
+ Allocation পেয়েছি? 
+ First day gain নাও 
+ Open price দেখো 
+ Open price IPO থেকে <+15%? 
+ Entry ভাবা যায় 
+ Overpay করছো 
+ 
+ 🎯 Real-World Application (Hypothetical): 
+ উদাহরণ: 
+ Company:  AI Cloud Corp 
+ IPO Price:  $50 
+ Open Price:  $58 
+ Valuation:  12x revenue (peers = 15x) 
+ Oversubscription:  8x 
+ Allocation:  Not received 
+ ✅ Action: 
+ প্রথম দিন $58 ভালো গ্যাপ না → Entry সম্ভব 
+ Partial buy করে, earnings report পর্যন্ত hold 
+ 15% trailing stop-loss বসিয়ে risk কভার)
