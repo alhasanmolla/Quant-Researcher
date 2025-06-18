@@ -1,0 +1,11 @@
+pandas
+numpy
+yfinance
+matplotlib
+seaborn
+ta-lib
+transformers
+torch
+scikit-learn
+gym
+stable-baselines3
